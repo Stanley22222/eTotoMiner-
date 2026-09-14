@@ -1,2 +1,3 @@
 # eTotoMiner-
 eTotoMiner 
+eTotominer
